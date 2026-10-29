@@ -169,4 +169,4 @@ The Student API supports the following operations:
 
 ## Developer
 
-Developer: Nagasibai Rahim — Linux
+Developer: Nagasibai Rahim — Linux and Docker
