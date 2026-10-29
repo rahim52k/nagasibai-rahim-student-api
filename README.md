@@ -157,3 +157,16 @@ To demonstrate failure safely, create a temporary test branch, intentionally mak
 - CI integrates and tests changes frequently. Continuous Delivery keeps software deployable; Continuous Deployment automatically releases qualifying changes.
 - `df -h` reports disk space; `free -h` reports memory; `tail -n 5 file` shows the last five lines; `chmod 744 file` gives owner `rwx` and group/others `r`.
 - `>` overwrites output; `>>` appends output. `mkdir -p` creates missing parent directories without error if they already exist.
+
+## CRUD Operations
+
+The Student API supports the following operations:
+- Create a student
+- Retrieve all students
+- Retrieve a student by ID
+- Update student information
+- Delete a student
+
+## Developer
+
+Nagasibai Rahim
